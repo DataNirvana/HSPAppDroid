@@ -1,0 +1,59 @@
+html, form{height:100%;}
+body{font-size:.80em;font-family:Trebuchet MS;margin:10px;padding:0px;color:#696969;width:95%;height:100%;}
+@media print {body{-webkit-print-color-adjust:exact;}}
+
+
+a:link, a:visited, a:active{color:#2B4661;text-decoration:none;font-weight:bold;}
+a:hover{color:#DE9700;text-decoration:none;font-weight:bold;}
+
+p{color:#3a3ad0; font-size:1.0em;}
+
+
+table{position:relative;}
+td{position:relative;}
+tr{position:relative;}
+t5{position:relative;}
+
+.tableTitle{margin-left:30px;color:#3a3ad0;font-style:italic;}
+.tableBody {margin-left:30px;color:#000000;border:none;}
+.tableBody TD {padding-top:5px;padding-left:10px;padding-right:10px;padding-bottom:5px;border:1px solid #ffffff;}
+.tableHeader TD {color:#000000;background-color:#fbb74c;font-weight:600;}
+
+tr:nth-child(even) {background-color:#fdc879;}
+tr:nth-child(odd) {background-color:#ffd9a1;}
+
+
+
+img{vertical-align:middle;}
+
+
+h1{color:#a46f07;background-color:#aaaaaa;font-size:4.4em;font-weight:600;}
+h2{color:#ffffff;background-color:#aaaaaa;font-size:3.1em;font-weight:600;}
+h3{color:#a46f07;font-size:3.1em;font-weight:600;}
+h4{color:#a46f07;font-size:1.6em;font-weight:600;}
+h5{color:#a46f07;font-size:3.1em;font-weight:600;}
+h6{color:#a46f07;font-size:2.1em;font-weight:600;font-style:italic;}
+h7{color:#3a3ad0;font-size:1.0em;font-weight:600;}
+
+.keyPoint{color:#3a3ad0;font-size:1.0em;font-weight:600;}
+.keyPointQualifier{color:#3a3ad0;font-size:1.0em;}
+
+.contents {color:#3a3ad0;}
+.figure {color:#00009e;font-size:1.5em;}
+
+.keyObjHeader {background-color:#fbb74c;color:#000000;font-weight:600;line-height:1.6em;padding-top:5px;padding-left:5px;padding-right:5px;padding-bottom:2px;}
+.keyObjContent {background-color:#fbb74c;color:#000000;line-height:1.6em;padding-top:2px;padding-left:5px;padding-right:5px;padding-bottom:5px;}
+
+
+li{color:#000000;line-height:1.6em;}
+.listBullet {}
+.listNum {}
+.listSummary {color:#000000;}
+.listSub {margin-left:20px;list-style-type:circle;}
+
+.paraDefault {color:#000000; font-size:1.0em;}
+.paraBig {color:#000000; font-size:1.1em;font-weight:600;}
+
+
+
+

@@ -1,0 +1,58 @@
+html, form{height:100%;}
+body{font-size:.80em;font-family:Trebuchet MS;margin:10px;padding:0px;color:#696969;width:95%;height:100%;}
+@media print {body{-webkit-print-color-adjust:exact;}}
+
+
+a:link, a:visited, a:active{color:#2B4661;text-decoration:none;font-weight:bold;}
+a:hover{color:#DE9700;text-decoration:none;font-weight:bold;}
+
+p{color:#3a3ad0; font-size:1.0em;}
+
+
+table{position:relative;}
+td{position:relative;}
+tr{position:relative;}
+t5{position:relative;}
+
+.tableTitle{margin-left:30px;color:#3a3ad0;font-style:italic;}
+.tableBody {margin-left:10px;color:#ea552b;border:none;width:95%;max-width:95%;border-collapse:collapse;}
+.tableBody TD {padding-top:5px;padding-left:10px;padding-right:10px;padding-bottom:5px;border:1px solid #ea552b;vertical-align:top;width:50%;}
+.tableHeader {color:#ffffff;background-color:#ea552b;}
+
+
+img{vertical-align:middle;}
+
+
+h1{color:#4eb694;font-size:3.4em;font-weight:600;}
+.HeaderSuffix{background-color:#4eb694;color:#ffffff;font-size:3.4em;font-weight:600;padding:5px;}
+h2{color:#ea552b;font-size:3.1em;font-weight:600;}
+h3{color:#ea552b;font-size:2.1em;font-weight:600;}
+h4{color:#ea552b;font-size:1.6em;font-weight:600;}
+h5{color:#ea552b;font-size:3.1em;font-weight:600;}
+h6{color:#ea552b;font-size:2.1em;font-weight:600;}
+h7{color:#ea552b;font-size:1.0em;font-weight:600;}
+
+.headerSuffix {background-color:#4eb694;color:#ffffff;}
+
+.keyPoint{color:#3a3ad0;font-size:1.0em;font-weight:600;}
+.keyPointQualifier{color:#3a3ad0;font-size:1.0em;}
+
+.contents {color:#3a3ad0;}
+.figure {color:#00009e;font-size:1.5em;}
+
+.keyObjHeader {background-color:#aad5c4;color:#000000;font-weight:600;line-height:1.6em;padding-top:5px;padding-left:5px;padding-right:5px;padding-bottom:2px;}
+.keyObjContent {background-color:#aad5c4;color:#000000;line-height:1.6em;padding-top:2px;padding-left:5px;padding-right:5px;padding-bottom:5px;}
+
+
+li{color:#000000;line-height:1.6em;}
+.listBullet {}
+.listNum {}
+.listSummary {color:#6dff00;}
+.listSub {margin-left:20px;list-style-type:circle;}
+
+.paraDefault {color:#000000; font-size:1.0em;}
+.paraBig {color:#3a3ad0; font-size:1.1em;}
+
+.reference { background-color:#ebf5f0;font-weight:600; padding:5px;}
+
+
